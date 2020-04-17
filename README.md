@@ -8,7 +8,7 @@
 
 ## Sobre a aplicação
 
-Uma aplicação para treinar o que aprendi até agora no React.js!
+Uma aplicação para treinar o que aprendi até agora no ReactJS!
 
 Essa será uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem e remoção dos repositórios.
 
