@@ -28,7 +28,7 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
 Clone o projeto com
 
 ```sh
-https://github.com/renanjefferson/conceitos-nodejs
+git clone https://github.com/renanjefferson/conceitos-nodejs
 ```
 
 Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências
@@ -48,7 +48,7 @@ $ yarn dev
 Clone o projeto com
 
 ```sh
-https://github.com/renanjefferson/conceitos-reactjs
+git clone https://github.com/renanjefferson/conceitos-reactjs
 ```
 
 Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências
